@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RSP/static/css/main.198dbeb4.chunk.css",
+    "main.js": "/RSP/static/js/main.680ef30a.chunk.js",
+    "main.js.map": "/RSP/static/js/main.680ef30a.chunk.js.map",
+    "runtime-main.js": "/RSP/static/js/runtime-main.7e70e305.js",
+    "runtime-main.js.map": "/RSP/static/js/runtime-main.7e70e305.js.map",
+    "static/css/2.27dd871e.chunk.css": "/RSP/static/css/2.27dd871e.chunk.css",
+    "static/js/2.25ebd8dd.chunk.js": "/RSP/static/js/2.25ebd8dd.chunk.js",
+    "static/js/2.25ebd8dd.chunk.js.map": "/RSP/static/js/2.25ebd8dd.chunk.js.map",
+    "index.html": "/RSP/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/RSP/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.198dbeb4.chunk.css.map": "/RSP/static/css/main.198dbeb4.chunk.css.map",
+    "static/js/2.25ebd8dd.chunk.js.LICENSE.txt": "/RSP/static/js/2.25ebd8dd.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/RSP/static/media/background.e068c04c.jpg",
+    "static/media/logo.6e6c7cdd.png": "/RSP/static/media/logo.6e6c7cdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e70e305.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.25ebd8dd.chunk.js",
+    "static/css/main.198dbeb4.chunk.css",
+    "static/js/main.680ef30a.chunk.js"
+  ]
+}
